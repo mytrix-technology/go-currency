@@ -1,0 +1,8 @@
+{
+    "DB_username": "postgres",
+    "DB_password": "m435tr0",
+    "DB_name": "goexchange",
+    "DB_host": "localhost",
+    "DB_SSL": "disable",
+    "FILE_URL": "http://localhost:82/upload/"
+}
